@@ -1,0 +1,28 @@
+*{margin: 0};
+body{}
+body{
+    background-color: gainsboro;
+}
+.topbox{
+    background-color: gray;
+    width: 125%;
+    height: 200px ;
+    margin-top: 0 auto;
+    margin-left: -20px;
+    
+}
+.sidebox{
+    background-color: white;
+    width: 75%;
+    height: 1200px;
+    margin: 0 auto;
+    
+
+}
+.bottombox{
+    background-color: black;
+    width: 75%;
+    height: 100px;
+    margin: 0 auto;
+
+}
